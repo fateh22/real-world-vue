@@ -1,29 +1,11 @@
 # real-world-vue
 
-## Project setup
+## Docker Compose build
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
+docker-compose build
 ```
 
-### Compiles and minifies for production
+### Docker compose container up
 ```
-yarn run build
+docker-compose up
 ```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
